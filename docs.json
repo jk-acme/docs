@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "willo",
+  "theme": "willow",
   "name": "JK-acme Docs",
   "colors": {
     "primary": "#16A34A",
